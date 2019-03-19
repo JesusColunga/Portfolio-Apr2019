@@ -1,0 +1,31 @@
+/* portfolio.css */
+/* 19/Mar/2019 */
+
+img {
+    height:         200px;
+    width:          200px;
+}
+
+td {
+    width:          250px;
+}
+
+/* - - - -  class  - - - - - */
+.ImagenTexto{
+    position:       relative;
+    display:        inline-block;
+    text-align:     center;
+    left:           25px;
+}
+ 
+.texto-encima{
+    background:     #4aaaa5;
+    color:          white;
+    height:         20px;
+    width:          177px;
+    padding:        5px;
+    font-family:    'Georgia', Times, Times New Roman, serif;
+    position:       absolute;
+    top:            145px;
+	margin-left:	22px;
+}
