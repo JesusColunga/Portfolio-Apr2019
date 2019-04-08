@@ -1,0 +1,26 @@
+
+Portafolio que voy a tomar como base para el real.
+https://github.com/JesusColunga/Responsive-Portfolio/settings
+
+Pages:
+https://jesuscolunga.github.io/Responsive-Portfolio/
+
+---
+GitHub de Word Guess Game
+https://github.com/JesusColunga/Word-Guess-Game/settings
+Pages:
+https://jesuscolunga.github.io/Word-Guess-Game/
+
+---
+GitHub de Star Wars Game
+https://github.com/JesusColunga/unit-4-game
+Pages: 
+https://jesuscolunga.github.io/unit-4-game/
+
+---
+JesusColunga/Real-Portfolio
+(para entregar con mis tareas)
+https://github.com/JesusColunga/Real-Portfolio.git
+Pages:
+https://jesuscolunga.github.io/Real-Portfolio/portfolio.html
+C:\InfoLap - 19Mar2019\Responsive-Portfolio-master
